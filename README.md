@@ -1,6 +1,6 @@
 # Welcome to project
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with (https://lovable.dev).
 
 ## Build with Lovable
 
