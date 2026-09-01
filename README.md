@@ -5,7 +5,7 @@ This project was built with (https://lovable.dev).
 ## Build with Lovable
 
 Open My project in the [Detect-Fake-News.-Expose-Deepfakes.
-](truthguard-ai-examiner.lovable.app) and keep building.
+](truthguard-ai-examiner.lovable.app)
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
