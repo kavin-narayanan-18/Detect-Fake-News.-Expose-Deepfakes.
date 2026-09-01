@@ -7,24 +7,17 @@ This project was built with (https://lovable.dev).
 Open My project in the [Detect-Fake-News.-Expose-Deepfakes.
 ](truthguard-ai-examiner.lovable.app)
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+Core Detection Modules
+Multi-Modal Upload Portal: Build dedicated drag-and-drop zones for text articles, URLs, images, and video files to handle multiple media types seamlessly.
 
-## Development
+Visual Credibility Scorecard: Implement dynamic trust meters and confidence percentage indicators that highlight specific risks, such as source bias or facial manipulation artifacts.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Scan History Dashboard: Create a structured log where users can review past analyses, compare original media against flagged results, and export summary reports.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+Community Verification Feed: Design a public feed showcasing trending news items, community-flagged posts, and officially debunked deepfakes.
 
-## Built with
+Interface & User Experience
+Modern Trust-Centric UI: Style the layout with clean typography, intuitive color-coding (such as green for verified and red for high-risk), and a responsive dark/light mode toggle.
 
-- TanStack Start
-- TypeScript
-- React
+Step-by-Step Prompting: Instruct Lovable to build these components incrementally by giving precise commands for each individual tab or functional view.
 - Tailwind CSS
