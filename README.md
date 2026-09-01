@@ -1,12 +1,5 @@
 # Welcome to project
 
-This project was built with (https://lovable.dev).
-
-## Build with Lovable
-
-Open My project in the [Detect-Fake-News.-Expose-Deepfakes.
-](truthguard-ai-examiner.lovable.app)
-
 Core Detection Modules
 Multi-Modal Upload Portal: Build dedicated drag-and-drop zones for text articles, URLs, images, and video files to handle multiple media types seamlessly.
 
