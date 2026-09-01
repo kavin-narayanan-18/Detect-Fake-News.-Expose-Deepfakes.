@@ -20,4 +20,4 @@ Interface & User Experience
 Modern Trust-Centric UI: Style the layout with clean typography, intuitive color-coding (such as green for verified and red for high-risk), and a responsive dark/light mode toggle.
 
 Step-by-Step Prompting: Instruct Lovable to build these components incrementally by giving precise commands for each individual tab or functional view.
-- Tailwind CSS
+
